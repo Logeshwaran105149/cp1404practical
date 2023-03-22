@@ -12,7 +12,7 @@ def main():
     result = get_result(score)
     print(result)
     result = get_result(random_score)
-    print(f"Random score Result: {result}")
+    print(f"Random score {random_score}: {result}")
 
 
 def get_result(score):
