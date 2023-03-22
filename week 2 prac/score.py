@@ -8,9 +8,11 @@ import random
 
 def main():
     score = float(input("Enter score: "))
-    random.randint(0, 100)
+    random_score = random.randint(0, 100)
     result = get_result(score)
     print(result)
+    result = get_result(random_score)
+    print(f"Random score Result: {result}")
 
 
 def get_result(score):
