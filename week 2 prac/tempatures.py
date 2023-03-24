@@ -6,8 +6,6 @@ Q - Quit"""
 def main():
     print(menu)
     user_choice()
-    convert_celsius_fahrenheit()
-    convert_fahrenheit_celsius()
 
 
 def convert_celsius_fahrenheit():
