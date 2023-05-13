@@ -20,7 +20,7 @@ class DynamicWidgetsApp(App):
     def build(self):
         """Build the Kivy GUI."""
         self.title = "Dynamic Widgets"
-        self.root = Builder.load_file('dynamic_widgets.kv')
+        self.root = Builder.load_file('dynamic_labels.kv')
         self.create_widgets()
         return self.root
 
