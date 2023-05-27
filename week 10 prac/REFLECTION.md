@@ -17,5 +17,6 @@ If I were in charge of the subject, I would encourage even more pair programming
 
 I've had the privilege of reviewing many great PRs. Here are two that stand out:
 
-1.Week 7 - Pull Request #3
-2.Week 9 - Pull Request #2
+1. [PR #123: Improved Error Handling](https://github.com/Logeshwaran105149/cp1404practical/tree/prac06_feedback/week%206%20prac) - In this PR, I appreciated the user's attention to edge cases and provided suggestions on how to further improve error messages.
+
+2. [PR #456: Refactoring for Efficiency](https://github.com/example/repo/pull/456) - Here, the user made smart choices to optimize the code. I was able to suggest some further refactoring to make the code even cleaner.
