@@ -17,5 +17,5 @@ If I were in charge of the subject, I would encourage even more pair programming
 
 I've had the privilege of reviewing many great PRs. Here are two that stand out:
 
-- [Week 7 - Pull Request ](https://github.com/Logeshwaran105149/cp1404practical/tree/prac_07_feedback)
-- [Week 8 - Pull Request ](https://github.com/Logeshwaran105149/cp1404practical/tree/prac_08_feedback)
+- [Week 7 - Pull Request ](https://github.com/Logeshwaran105149/cp1404practical/pull/5)
+- [Week 8 - Pull Request ](https://github.com/Logeshwaran105149/cp1404practical/pull/6)
