@@ -17,6 +17,6 @@ If I were in charge of the subject, I would encourage even more pair programming
 
 I've had the privilege of reviewing many great PRs. Here are two that stand out:
 
-1. [Week 6]https://github.com/Logeshwaran105149/cp1404practical/tree/prac06_feedback/week%206%20prac  
+1. [Week 6](https://github.com/Logeshwaran105149/cp1404practical/tree/prac06_feedback/week%206%20prac) - 
 
-2. [Week 7]https://github.com/example/repo/pull/456 - 
+2. [Week 7](https://github.com/example/repo/pull/456) - 
